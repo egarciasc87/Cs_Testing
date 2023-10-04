@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DFtX+1614VwQ8G/nXTSj6zB5MTF6RRYgc3hhjG1SDXgdLljppbfq4J7ccRl6522YSEeSNpQIvWd2Thwo6Rv5TQ==",
+  "success": true,
+  "projectFilePath": "C:\\EGARCIA\\C#\\Cs_Testing\\UnitTests\\UnitTests\\UnitTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ERICK\\.nuget\\packages\\fluentassertions\\6.12.0\\fluentassertions.6.12.0.nupkg.sha512",
+    "C:\\Users\\ERICK\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
+    "C:\\Users\\ERICK\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

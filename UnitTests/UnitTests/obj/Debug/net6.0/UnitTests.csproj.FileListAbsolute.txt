@@ -1,0 +1,15 @@
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.exe
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.deps.json
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.runtimeconfig.json
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\bin\Debug\net6.0\UnitTests.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.AssemblyReference.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfoInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.AssemblyInfo.cs
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.csproj.CoreCompileInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\refint\UnitTests.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\UnitTests.genruntimeconfig.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\UnitTests\obj\Debug\net6.0\ref\UnitTests.dll
