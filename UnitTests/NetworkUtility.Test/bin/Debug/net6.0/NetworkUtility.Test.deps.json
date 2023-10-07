@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "NetworkUtility.Test/1.0.0": {
         "dependencies": {
+          "CalculatorDomain": "1.0.0",
           "FakeItEasy": "7.4.0",
           "FluentAssertions": "6.12.0",
           "Microsoft.NET.Test.Sdk": "17.1.0",
@@ -1239,6 +1240,11 @@
         }
       },
       "xunit.runner.visualstudio/2.4.3": {},
+      "CalculatorDomain/1.0.0": {
+        "runtime": {
+          "CalculatorDomain.dll": {}
+        }
+      },
       "NetworkUtility/1.0.0": {
         "dependencies": {
           "FakeItEasy": "7.4.0",
@@ -1983,6 +1989,11 @@
       "sha512": "sha512-kZZSmOmKA8OBlAJaquPXnJJLM9RwQ27H7BMVqfMLUcTi9xHinWGJiWksa3D4NEtz0wZ/nxd2mogObvBgJKCRhQ==",
       "path": "xunit.runner.visualstudio/2.4.3",
       "hashPath": "xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    },
+    "CalculatorDomain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "NetworkUtility/1.0.0": {
       "type": "project",

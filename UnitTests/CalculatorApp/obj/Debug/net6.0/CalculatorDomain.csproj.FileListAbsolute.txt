@@ -1,0 +1,12 @@
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\bin\Debug\net6.0\CalculatorDomain.deps.json
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\bin\Debug\net6.0\CalculatorDomain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\bin\Debug\net6.0\CalculatorDomain.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.csproj.AssemblyReference.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.AssemblyInfoInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.AssemblyInfo.cs
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.csproj.CoreCompileInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\refint\CalculatorDomain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\CalculatorDomain.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\CalculatorApp\obj\Debug\net6.0\ref\CalculatorDomain.dll

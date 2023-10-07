@@ -109,3 +109,5 @@ C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\NetworkU
 C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\NetworkUtility.pdb
 C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\Castle.Core.dll
 C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\FakeItEasy.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\CalculatorDomain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\NetworkUtility.Test\bin\Debug\net6.0\CalculatorDomain.pdb

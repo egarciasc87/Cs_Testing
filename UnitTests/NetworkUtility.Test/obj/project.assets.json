@@ -1877,6 +1877,16 @@
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
       },
+      "CalculatorDomain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/CalculatorDomain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculatorDomain.dll": {}
+        }
+      },
       "NetworkUtility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -6633,6 +6643,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "CalculatorDomain/1.0.0": {
+      "type": "project",
+      "path": "../CalculatorApp/CalculatorDomain.csproj",
+      "msbuildProject": "../CalculatorApp/CalculatorDomain.csproj"
+    },
     "NetworkUtility/1.0.0": {
       "type": "project",
       "path": "../NetworkUtility/NetworkUtility.csproj",
@@ -6641,6 +6656,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "CalculatorDomain >= 1.0.0",
       "FakeItEasy >= 7.4.0",
       "FluentAssertions >= 6.12.0",
       "Microsoft.NET.Test.Sdk >= 17.1.0",
@@ -6677,6 +6693,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\EGARCIA\\C#\\Cs_Testing\\UnitTests\\CalculatorApp\\CalculatorDomain.csproj": {
+              "projectPath": "C:\\EGARCIA\\C#\\Cs_Testing\\UnitTests\\CalculatorApp\\CalculatorDomain.csproj"
+            },
             "C:\\EGARCIA\\C#\\Cs_Testing\\UnitTests\\NetworkUtility\\NetworkUtility.csproj": {
               "projectPath": "C:\\EGARCIA\\C#\\Cs_Testing\\UnitTests\\NetworkUtility\\NetworkUtility.csproj"
             }

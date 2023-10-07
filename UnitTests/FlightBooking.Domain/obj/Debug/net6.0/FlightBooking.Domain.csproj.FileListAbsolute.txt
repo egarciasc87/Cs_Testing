@@ -1,0 +1,12 @@
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\bin\Debug\net6.0\FlightBooking.Domain.deps.json
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\bin\Debug\net6.0\FlightBooking.Domain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\bin\Debug\net6.0\FlightBooking.Domain.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.csproj.AssemblyReference.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.AssemblyInfoInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.AssemblyInfo.cs
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.csproj.CoreCompileInputs.cache
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\refint\FlightBooking.Domain.dll
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\FlightBooking.Domain.pdb
+C:\EGARCIA\C#\Cs_Testing\UnitTests\FlightBooking.Domain\obj\Debug\net6.0\ref\FlightBooking.Domain.dll

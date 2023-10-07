@@ -24,6 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CalculatorApp\CalculatorDomain.csproj" />
     <ProjectReference Include="..\NetworkUtility\NetworkUtility.csproj" />
   </ItemGroup>
 
